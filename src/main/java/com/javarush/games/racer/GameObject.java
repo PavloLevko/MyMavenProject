@@ -1,6 +1,6 @@
 package com.javarush.games.racer;
 
-import com.javarush.engine.cell.*;
+
 import org.apache.commons.lang3.tuple.Pair;
 
 public class GameObject {
